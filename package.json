@@ -1,0 +1,23 @@
+{
+  "name": "cyvy",
+  "version": "1.0.0",
+  "description": "Personal CV generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-aalam/cyvy.git"
+  },
+  "keywords": [
+    "CV",
+    "PDF"
+  ],
+  "author": "Aftab Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-aalam/cyvy/issues"
+  },
+  "homepage": "https://github.com/one-aalam/cyvy#readme"
+}
