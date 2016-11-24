@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/one-aalam/cyvy#readme",
   "dependencies": {
+    "html-pdf": "^2.1.0",
     "pdfkit": "^0.8.0"
   }
 }
